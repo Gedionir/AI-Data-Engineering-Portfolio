@@ -26,6 +26,14 @@ Este é um projeto simples e divertido: o clássico jogo Pedra, Papel e Tesoura 
 Este é um projeto de genda de contatos desenvolvido com Django. O objetivo era aprender os conceitos fundamentais do framework: models, views, templates, URLs e o painel administrativo. Apesar de simples, representa um marco importante na minha jornada como desenvolvedor.
 - 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/agenda/blob/master/manage.py)
 
+###  Jogo da velha - Web
+Este é um jogo da velha digital implementado como uma aplicação web, permitindo que dois jogadores se enfrentem alternadamente em uma interface simples e intuitiva.
+- 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/Gedionir/Jogo-da-Velha)
+
+###  Tela de Login
+Sistema completo de autenticação de usuários desenvolvido em Python, utilizando PyQt5 para a interface gráfica e SQLite como banco de dados local. O projeto oferece uma experiência intuitiva para cadastro e login de usuários, com validações de segurança e design amigável.
+- 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/tela_login_python)
+- 
 ## 🔹 Big Data
 
 - 🔗 [Climate Big Data Analysis](https://github.com/seuusuario/climate-bigdata)
