@@ -4,7 +4,7 @@
 
 ---
 
-## Desenvolvimento
+## 🔹Desenvolvimento
 
 ### Calculadora de Tinta (2021)
 Este foi o meu primeiro programa, desenvolvido há cerca de 5 anos, quando comecei a programar. É uma calculadora simples para estimar a quantidade de tinta necessária para pintar uma parede retangular, considerando a área de cobertura por litro e o custo com base no preço de um galão de 18 litros.
