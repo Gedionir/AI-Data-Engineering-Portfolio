@@ -11,7 +11,7 @@ Este foi o meu primeiro programa, desenvolvido há cerca de 5 anos, quando comec
 
 - 🔗 [Calculadora de Tinta](https://github.com/Gedionir/CalculadoraPinturaParede/blob/main/ProgTintaBravo.py)
 
-### calculadora IMC (2021)
+### Calculadora IMC (2021)
 Este é um projeto simples de uma Calculadora de Índice de Massa Corporal (IMC) , desenvolvido para praticar lógica de programação e conceitos básicos de entrada, processamento e saída de dados. Foi um dos meus primeiros programas e me ajudou a entender como transformar uma fórmula matemática em código funcional.
 
 - 🔗 [Calculadora IMC](https://github.com/Gedionir/Projetos-com-Python/blob/main/Projeto%20Índice%20Massa%20Corporal%20-%208%20Níveis.py)
