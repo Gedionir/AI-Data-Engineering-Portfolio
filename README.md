@@ -6,11 +6,25 @@ Este repositório organiza meus principais projetos em Desenvolvimento,  IA e En
 
 ## Desenvolvimento
 
-### Calculadora de Tinta 
+### Calculadora de Tinta (2021)
 Este foi o meu primeiro programa, desenvolvido há cerca de 5 anos, quando comecei a programar. É uma calculadora simples para estimar a quantidade de tinta necessária para pintar uma parede retangular, considerando a área de cobertura por litro e o custo com base no preço de um galão de 18 litros.
 
 - 🔗 [Calculadora de Tinta](https://github.com/Gedionir/CalculadoraPinturaParede/blob/main/ProgTintaBravo.py)
 
+### calculadora IMC (2021)
+Este é um projeto simples de uma Calculadora de Índice de Massa Corporal (IMC) , desenvolvido para praticar lógica de programação e conceitos básicos de entrada, processamento e saída de dados. Foi um dos meus primeiros programas e me ajudou a entender como transformar uma fórmula matemática em código funcional.
+
+- 🔗 [Calculadora IMC](https://github.com/Gedionir/Projetos-com-Python/blob/main/Projeto%20Índice%20Massa%20Corporal%20-%208%20Níveis.py)
+- 
+
+###  Pedra, Papel e Tesoura – Jogo em Python (2021)
+Este é um projeto simples e divertido: o clássico jogo Pedra, Papel e Tesoura contra o computador. Desenvolvido em Python, foi um dos meus primeiros contatos com lógica de programação, estruturas condicionais, geração de números aleatórios e tratamento de entradas do usuário.
+
+- 🎮 [Pedra, Papel e Tesoura](https://github.com/Gedionir/Game-1/blob/main/Projeto%20-%20Game%20Pedra%20Papel%20Tesoura.py)
+
+###  Agenda Django - Sistema de Contatos
+Este é um projeto de genda de contatos desenvolvido com Django. O objetivo era aprender os conceitos fundamentais do framework: models, views, templates, URLs e o painel administrativo. Apesar de simples, representa um marco importante na minha jornada como desenvolvedor.
+- 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/agenda/blob/master/manage.py)
 
 ## 🔹 Big Data
 
