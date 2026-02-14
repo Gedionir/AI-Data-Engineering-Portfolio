@@ -32,7 +32,16 @@ Este é um jogo da velha digital implementado como uma aplicação web, permitin
 ###  Tela de Login (2022)
 Sistema completo de autenticação de usuários desenvolvido em Python, utilizando PyQt5 para a interface gráfica e SQLite como banco de dados local. O projeto oferece uma experiência intuitiva para cadastro e login de usuários, com validações de segurança e design amigável.
 - 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/tela_login_python)
-- 
+
+###  Agência de Turismo (2022)
+Criar uma página web moderna e responsiva para apresentar os serviços de uma agência de turismo, demonstrando habilidades em:
+* Estruturação semântica com HTML5
+* Estilização avançada com CSS3
+* Implementação de layouts flexíveis utilizando CSS Flexbox
+* Design responsivo para diferentes dispositivos
+- 🔗 [Site - Agência de Turismo](https://github.com/Gedionir/Landing_Page_Ag-ncia_Turismo)
+
+
 ## 🔹 Big Data
 
 ### 1º Projetos de Análise de Dados com Pandas e Excel (2022)
