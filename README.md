@@ -4,7 +4,7 @@
 
 ---
 
-## 🔹Desenvolvimento
+## 🔹Desenvolvimento🔹
 
 ### Calculadora de Tinta (2021)
 Este foi o meu primeiro programa, desenvolvido há cerca de 5 anos, quando comecei a programar. É uma calculadora simples para estimar a quantidade de tinta necessária para pintar uma parede retangular, considerando a área de cobertura por litro e o custo com base no preço de um galão de 18 litros.
@@ -42,7 +42,7 @@ Criar uma página web moderna e responsiva para apresentar os serviços de uma a
 - 🔗 [Site - Agência de Turismo](https://github.com/Gedionir/Landing_Page_Ag-ncia_Turismo)
 
 
-## 🔹 Big Data
+## 🔹 Big Data 🔹
 
 ### 1º Projetos de Análise de Dados com Pandas e Excel (2022)
 Este repositório contém meus primeiros projetos de análise de dados utilizando Python, Pandas e Excel, demonstrando técnicas de manipulação, limpeza, transformação e visualização de dados.
@@ -57,7 +57,7 @@ Análise de dados de vendas da base Adventure Works, focada em métricas de perf
 
 ---
 
-## 🔹 Machine Learning
+## 🔹 Machine Learning 🔹
 
 - 🔗 [Computer Vision - Dermatologia](https://github.com/seuusuario/cv-derm)
 - 🔗 [Modelo Preditivo XYZ](https://github.com/seuusuario/modelo-xyz)
