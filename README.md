@@ -35,8 +35,8 @@ Sistema completo de autenticação de usuários desenvolvido em Python, utilizan
 - 
 ## 🔹 Big Data
 
-### 1º Projetos de Análise de Dados com Pandas e Excel
-Este repositório contém dois projetos de análise de dados utilizando Python, Pandas e Excel, demonstrando técnicas de manipulação, limpeza, transformação e visualização de dados.
+### 1º Projetos de Análise de Dados com Pandas e Excel (2022)
+Este repositório contém meus primeiros projetos de análise de dados utilizando Python, Pandas e Excel, demonstrando técnicas de manipulação, limpeza, transformação e visualização de dados.
 
 #### 📊 Projeto 1: Análise de Vendas por Região (Pandas_excel.ipynb)
 Análise exploratória de dados de vendas de cinco cidades do Nordeste brasileiro: Aracaju, Fortaleza, Natal, Recife e Salvador. O projeto consolida múltiplas bases de dados e realiza diversas transformações para extrair insights de negócio.
