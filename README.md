@@ -21,22 +21,30 @@ Este é um projeto simples e divertido: o clássico jogo Pedra, Papel e Tesoura 
 
 - 🎮 [Pedra, Papel e Tesoura](https://github.com/Gedionir/Game-1/blob/main/Projeto%20-%20Game%20Pedra%20Papel%20Tesoura.py)
 
-###  Agenda Django - Sistema de Contatos
+###  Agenda Django - Sistema de Contatos (2022)
 Este é um projeto de genda de contatos desenvolvido com Django. O objetivo era aprender os conceitos fundamentais do framework: models, views, templates, URLs e o painel administrativo. Apesar de simples, representa um marco importante na minha jornada como desenvolvedor.
 - 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/agenda/blob/master/manage.py)
 
-###  Jogo da velha - Web
+###  Jogo da velha - Web (2022)
 Este é um jogo da velha digital implementado como uma aplicação web, permitindo que dois jogadores se enfrentem alternadamente em uma interface simples e intuitiva.
 - 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/Gedionir/Jogo-da-Velha)
 
-###  Tela de Login
+###  Tela de Login (2022)
 Sistema completo de autenticação de usuários desenvolvido em Python, utilizando PyQt5 para a interface gráfica e SQLite como banco de dados local. O projeto oferece uma experiência intuitiva para cadastro e login de usuários, com validações de segurança e design amigável.
 - 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/tela_login_python)
 - 
 ## 🔹 Big Data
 
-- 🔗 [Climate Big Data Analysis](https://github.com/seuusuario/climate-bigdata)
-- 🔗 [Spark ETL Pipeline](https://github.com/seuusuario/spark-etl)
+### 1º Projetos de Análise de Dados com Pandas e Excel
+Este repositório contém dois projetos de análise de dados utilizando Python, Pandas e Excel, demonstrando técnicas de manipulação, limpeza, transformação e visualização de dados.
+
+#### 📊 Projeto 1: Análise de Vendas por Região (Pandas_excel.ipynb)
+Análise exploratória de dados de vendas de cinco cidades do Nordeste brasileiro: Aracaju, Fortaleza, Natal, Recife e Salvador. O projeto consolida múltiplas bases de dados e realiza diversas transformações para extrair insights de negócio.
+
+#### 📈 Projeto 2: Análise Exploratória Adventure Works (Análise__exploratória.ipynb)
+Análise de dados de vendas da base Adventure Works, focada em métricas de performance, lucratividade e eficiência operacional.
+- 🔗 [Pandas- Análise de vendas e exploratória](https://github.com/Gedionir/Pandas_excel)
+  
 
 ---
 
