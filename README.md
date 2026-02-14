@@ -15,7 +15,6 @@ Este foi o meu primeiro programa, desenvolvido há cerca de 5 anos, quando comec
 Este é um projeto simples de uma Calculadora de Índice de Massa Corporal (IMC) , desenvolvido para praticar lógica de programação e conceitos básicos de entrada, processamento e saída de dados. Foi um dos meus primeiros programas e me ajudou a entender como transformar uma fórmula matemática em código funcional.
 
 - 🔗 [Calculadora IMC](https://github.com/Gedionir/Projetos-com-Python/blob/main/Projeto%20Índice%20Massa%20Corporal%20-%208%20Níveis.py)
-- 
 
 ###  Pedra, Papel e Tesoura – Jogo em Python (2021)
 Este é um projeto simples e divertido: o clássico jogo Pedra, Papel e Tesoura contra o computador. Desenvolvido em Python, foi um dos meus primeiros contatos com lógica de programação, estruturas condicionais, geração de números aleatórios e tratamento de entradas do usuário.
