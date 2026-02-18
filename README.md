@@ -64,7 +64,7 @@ Tecnologias utilizadas:
 * Bibliotecas: datetime, io, csv e json.
 * Visul Studio Code
 * Git + GitHub
-- 🔗 [Site - Agência de Turismo](https://github.com/Gedionir/task-manager-agenda)
+- 🔗 [Gerenciador de Tarefas com Agenda](https://github.com/Gedionir/task-manager-agenda)
 
 ---
 
