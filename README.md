@@ -42,6 +42,13 @@ Criar uma página web moderna e responsiva para apresentar os serviços de uma a
 - 🔗 [Site - Agência de Turismo](https://github.com/Gedionir/Landing_Page_Ag-ncia_Turismo)
 
 
+---
+
+### Gerenciador de Tarefas com Agenda 🗓️✅
+Este projeto é um **Gerenciador de Tarefas** desenvolvido em **Python** com **Streamlit**, que permite organizar atividades com **data, horário inicial e final**, além de marcar como concluídas, remover, exportar e importar tarefas em formato CSV.
+- 🔗 [Site - Agência de Turismo](https://github.com/Gedionir/task-manager-agenda)
+
+
 ## 🔹 Big Data 🔹
 
 ### 1º Projetos de Análise de Dados com Pandas e Excel (2022)
