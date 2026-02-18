@@ -55,8 +55,15 @@ Criar uma página web moderna e responsiva para apresentar os serviços de uma a
 
 ---
 
-### Gerenciador de Tarefas com Agenda 🗓️✅
+### Gerenciador de Tarefas com Agenda (2026)
 Este projeto é um **Gerenciador de Tarefas** desenvolvido em **Python** com **Streamlit**, que permite organizar atividades com **data, horário inicial e final**, além de marcar como concluídas, remover, exportar e importar tarefas em formato CSV.
+Tecnologias utilizadas:
+* Python
+* Streamlit
+* JSON
+* Bibliotecas: datetime, io, csv e json.
+* Visul Studio Code
+* Git + GitHub
 - 🔗 [Site - Agência de Turismo](https://github.com/Gedionir/task-manager-agenda)
 
 ---
