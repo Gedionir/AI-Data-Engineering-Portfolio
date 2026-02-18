@@ -11,27 +11,39 @@ Este foi o meu primeiro programa, desenvolvido há cerca de 5 anos, quando comec
 
 - 🔗 [Calculadora de Tinta](https://github.com/Gedionir/CalculadoraPinturaParede/blob/main/ProgTintaBravo.py)
 
+  ---
+
 ### Calculadora IMC (2021)
 Este é um projeto simples de uma Calculadora de Índice de Massa Corporal (IMC) , desenvolvido para praticar lógica de programação e conceitos básicos de entrada, processamento e saída de dados. Foi um dos meus primeiros programas e me ajudou a entender como transformar uma fórmula matemática em código funcional.
 
 - 🔗 [Calculadora IMC](https://github.com/Gedionir/Projetos-com-Python/blob/main/Projeto%20Índice%20Massa%20Corporal%20-%208%20Níveis.py)
+
+---
 
 ###  Pedra, Papel e Tesoura – Jogo em Python (2021)
 Este é um projeto simples e divertido: o clássico jogo Pedra, Papel e Tesoura contra o computador. Desenvolvido em Python, foi um dos meus primeiros contatos com lógica de programação, estruturas condicionais, geração de números aleatórios e tratamento de entradas do usuário.
 
 - 🎮 [Pedra, Papel e Tesoura](https://github.com/Gedionir/Game-1/blob/main/Projeto%20-%20Game%20Pedra%20Papel%20Tesoura.py)
 
+---
+
 ###  Agenda Django - Sistema de Contatos (2022)
 Este é um projeto de genda de contatos desenvolvido com Django. O objetivo era aprender os conceitos fundamentais do framework: models, views, templates, URLs e o painel administrativo. Apesar de simples, representa um marco importante na minha jornada como desenvolvedor.
 - 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/agenda/blob/master/manage.py)
+
+---
 
 ###  Jogo da velha - Web (2022)
 Este é um jogo da velha digital implementado como uma aplicação web, permitindo que dois jogadores se enfrentem alternadamente em uma interface simples e intuitiva.
 - 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/Gedionir/Jogo-da-Velha)
 
+---
+
 ###  Tela de Login (2022)
 Sistema completo de autenticação de usuários desenvolvido em Python, utilizando PyQt5 para a interface gráfica e SQLite como banco de dados local. O projeto oferece uma experiência intuitiva para cadastro e login de usuários, com validações de segurança e design amigável.
 - 🔗 [Sistema de Contatos- Django](https://github.com/Gedionir/tela_login_python)
+
+---
 
 ###  Agência de Turismo (2022)
 Criar uma página web moderna e responsiva para apresentar os serviços de uma agência de turismo, demonstrando habilidades em:
@@ -41,13 +53,13 @@ Criar uma página web moderna e responsiva para apresentar os serviços de uma a
 * Design responsivo para diferentes dispositivos
 - 🔗 [Site - Agência de Turismo](https://github.com/Gedionir/Landing_Page_Ag-ncia_Turismo)
 
-
 ---
 
 ### Gerenciador de Tarefas com Agenda 🗓️✅
 Este projeto é um **Gerenciador de Tarefas** desenvolvido em **Python** com **Streamlit**, que permite organizar atividades com **data, horário inicial e final**, além de marcar como concluídas, remover, exportar e importar tarefas em formato CSV.
 - 🔗 [Site - Agência de Turismo](https://github.com/Gedionir/task-manager-agenda)
 
+---
 
 ## 🔹 Big Data 🔹
 
