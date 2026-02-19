@@ -70,8 +70,25 @@ Tecnologias utilizadas:
 
 ## 🔹 Big Data 🔹
 
-### 1º Projetos de Análise de Dados com Pandas e Excel (2022)
-Este repositório contém meus primeiros projetos de análise de dados utilizando Python, Pandas e Excel, demonstrando técnicas de manipulação, limpeza, transformação e visualização de dados.
+### Sales Analytics Platform (2026)
+Plataforma completa para análise de vendas, composta por uma API REST desenvolvida com FastAPI e um dashboard interativo construído com Streamlit. Toda a aplicação é conteinerizada com Docker, facilitando a implantação e escalabilidade..
+
+## ✨ Funcionalidades
+
+- **Dashboard interativo** com métricas de vendas em tempo real
+- **API RESTful** para consulta e importação de dados
+- **Importação de dados** via upload de arquivos CSV/Excel ou inserção manual
+- **Banco de dados relacional** PostgreSQL para persistência
+- **Cache com Redis** para melhor performance
+- **Containerização com Docker** e orquestração com Docker Compose
+- **Recarregamento automático** da API durante o desenvolvimento
+- **Visualizações gráficas** com Plotly
+- **Dados de exemplo** para testes e demonstração
+
+🔗 [Plataforma  para Análise de Vendas](https://github.com/Gedionir/sales-analytics-platform)
+
+---
+
 
 #### 📊 Projeto 1: Análise de Vendas por Região (Pandas_excel.ipynb)
 Análise exploratória de dados de vendas de cinco cidades do Nordeste brasileiro: Aracaju, Fortaleza, Natal, Recife e Salvador. O projeto consolida múltiplas bases de dados e realiza diversas transformações para extrair insights de negócio.
